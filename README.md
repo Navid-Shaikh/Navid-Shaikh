@@ -1,4 +1,4 @@
-# Hi there, I'm Naveed Mohd Hani Shakh 👋
+# Hi there, I'm Naveed Mohd Hanif Shaikh 👋
 
 Final-year BTech student in **Artificial Intelligence and Data Science** at **N.K. Orchid College of Engineering & Technology, Solapur**.
 
