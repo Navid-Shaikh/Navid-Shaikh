@@ -21,13 +21,8 @@ Passionate about **data visualization** and turning complex data into clear, act
 - **Databases**: SQL (MySQL/PostgreSQL)
 - **Other**: HTML/CSS/JavaScript, Flutter, Android Studio, .NET, Computer Vision basics
 
-### 📊 GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Naveed's GitHub Stats" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- Email: your.email@example.com
+- Email: shaikhnavid244@gmail.com
 
-Thanks for visiting! 🚀
+Thanks for visiting!
