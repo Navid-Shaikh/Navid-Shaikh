@@ -21,6 +21,14 @@ Passionate about **data visualization** and turning complex data into clear, act
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-Expert-blue)
 
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Navid-Shaikh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navid-Shaikh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Navid-Shaikh&theme=radical&hide_border=true" alt="GitHub Streak" />
+
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Excel, Power BI
 - **Databases**: SQL (MySQL)
 - **Mobile & Full-Stack Development**: Flutter, Android Studio, .NET
