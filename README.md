@@ -31,4 +31,4 @@ Passionate about **data visualization** and turning complex data into clear, act
 - LinkedIn <!-- Replace with your actual LinkedIn URL -->
 - Email: shaikhnavid244@gmail.com
 
-Thanks for visiting! 🚀
+Thanks for visiting! 
