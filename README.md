@@ -28,7 +28,7 @@ Passionate about **data visualization** and turning complex data into clear, act
 - **Other**: C,HTML,CSS,JavaScript,soft computing, Deep Learning, Computer Vision basics, Machine Learning Algorithms.
 
 ### 📫 Connect with Me
-- LinkedIn <!-- Replace with your actual LinkedIn URL -->
+- LinkedIn www.linkedin.com/in/naveed-shaikh-a25aa225b
 - Email: shaikhnavid244@gmail.com
 
 Thanks for visiting! 
